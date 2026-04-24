@@ -14,13 +14,6 @@ FlowMark is a professional, high-performance Markdown editor built with **Tauri*
 - ⌨️ **Productivity First**: Smart shortcuts (Ctrl+S), interactive table generators, and ordered lists.
 - 🍱 **Compact & Portable**: Lightweight executable that doesn't bloat your system.
 
-## 📸 Demo Screenshots
-
-| Sidebar & Editor | Preview Mode |
-| :---: | :---: |
-| ![Screen 1](screenshots/image1.png) | ![Screen 2](screenshots/image2.png) |
-
-*(Check the `screenshots` folder for more detailed views of the interface.)*
 
 ## 🛠️ Tech Stack
 
