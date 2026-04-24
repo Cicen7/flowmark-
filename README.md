@@ -2,7 +2,7 @@
 
 FlowMark is a professional, high-performance Markdown editor built with **Tauri**, **React**, and **TypeScript**. Designed for writers, developers, and thinkers who demand a zero-distraction, fluid writing experience.
 
-![Hero Image](screenshots/image1.png)
+![Hero Image](screenshots/image3.png)
 
 ## ✨ Features
 
@@ -18,7 +18,7 @@ FlowMark is a professional, high-performance Markdown editor built with **Tauri*
 
 | Sidebar & Editor | Preview Mode |
 | :---: | :---: |
-| ![Screen 1](screenshots/image.png) | ![Screen 2](screenshots/image2.png) |
+| ![Screen 1](screenshots/image1.png) | ![Screen 2](screenshots/image2.png) |
 
 *(Check the `screenshots` folder for more detailed views of the interface.)*
 
